@@ -1,2 +1,2 @@
-# English to English dictionary
+# CS Dictionary
 This is my very first andriod project.
